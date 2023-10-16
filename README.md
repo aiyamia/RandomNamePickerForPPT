@@ -22,9 +22,9 @@
 
 ## 安装指南
 
-1. 下载项目的发布包。
-2. 运行安装程序并按照提示进行安装。
-3. 打开 PPT，你应该可以在功能区中看到一个新的名为“点名”的选项卡。
+1. 下载项目的发布包并解压。[点击这里下载最新版本](https://github.com/aiyamia/RandomNamePickerForPPT/releases/download/v0.1.0/RandomNamePicker.zip)
+2. 运行安装程序setup.exe并按照提示进行安装。
+3. 安装完毕后，打开 PPT，你应该可以在功能区中看到一个名为“点名”的选项卡。
 
 ## 使用说明
 在“点名”选项卡中：
